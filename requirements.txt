@@ -1,0 +1,4 @@
+
+# Neon Cast - Requirements
+# Python 3 is required only for the local server.
+# No Python packages are required.
